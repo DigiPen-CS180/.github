@@ -8,16 +8,17 @@
 ## How Has This Been Tested?  
 [Please describe the tests that you completed to verify your changes. (How do you know your changes work correctly?)] <!-- replace this text -->
 
-#### Tested Compilers:
+#### Tested Compilers
+- [ ] MSVC 32-bit
 - [ ] MSVC 64-bit
 - [ ] clang
 - [ ] gcc
 
-#### Tested Configurations:
+#### Tested Configurations
 - [ ] Debug
 - [ ] Release
 
-## Checklist:
+## Checklist
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation (README.md)
