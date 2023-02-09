@@ -11,8 +11,9 @@
 # In each subsection folders are ordered first by depth, then alphabetically.
 # This should make it easy to add new rules without breaking existing ones.
 
+
 # Global rule:
-*                               @DigiPen-CS180/tas @ryancdavison
+*                               @DigiPen-CS180/tas @DigiPen-CS180/instructors
 
 
 # Other examples:
@@ -21,6 +22,6 @@
 # /art/                         @DigiPen-CS180/art-reviewers-team  @art-lead-username
 
 # scripts folders with nested folder override example
-# /scripts/                     @DigiPen-CS180/dev-lead-team
+# /scripts/                     @DigiPen-CS180/dev-leads-team
 # /sripts/another/folder/       @another-dev-lead-username
 # /sripts/a/different/folder/   @different-dev-lead-username
